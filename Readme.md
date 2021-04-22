@@ -10,6 +10,7 @@
 - 情感分析通过利用cemotion生成情感分数 详情：https://github.com/Cyberbolt/Cemotion/tree/master/Cemotion/cemotion
 
 1. 获取电影id
+   例如： https://movie.douban.com/subject/34841067/ 其中 34841067 为 id
 
    ![](img/get-id.png)
 
